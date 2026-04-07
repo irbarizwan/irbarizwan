@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @irbarizwan
-- 👨‍💻 I’m a Web Developer
-- 👀 I’m interested in building modern, responsive, and accessible web applications
-- 🌱 I’m currently improving my skills in JavaScript and frontend best practices
-- 💞️ I’m looking to collaborate on web development and open-source projects
-- 📫 How to reach me: GitHub messages or LinkedIn
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy turning ideas into functional and clean websites
-<!---
-irbarizwan/irbarizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there 👋, I'm Irba Rizwan
+
+## 💼 About Me
+I am an aspiring **Data Analyst** with strong skills in SQL, Excel, and Power BI.  
+I enjoy cleaning, analyzing, and visualizing data to uncover insights and support data-driven decisions.  
+
+- 🌱 Currently learning advanced SQL and dashboarding techniques.  
+- 💡 Passionate about turning raw data into actionable insights.  
+- 📊 Hands-on experience with data cleaning, analysis, and visualization projects.
+
+---
+
+## 🛠 Skills
+- **Data Analysis:** SQL, Excel, Power BI, Data Cleaning  
+- **Data Visualization:** Charts, Dashboards, Pivot Tables, Interactive Reports  
+- **Database:** MySQL, PostgreSQL  
+- **Other Tools:** Microsoft Office, Google Sheets
+
+---
+
+## 🏆 Projects
+Check out my GitHub projects:
+
+1. **SQL Data Cleaning Project** – Script for removing duplicates, handling missing values, and normalizing data.  
+2. **Sales Dashboard (Excel)** – Interactive Excel dashboard analyzing sales trends and performance.  
+
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/irba-rizwan-irba1234
+ 
+- Email: ayanm8302@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy exploring datasets to find patterns others might miss and turning them into visual stories.
